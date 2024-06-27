@@ -2,7 +2,7 @@ import TravelForm from "@/components/form";
 
 export default function Home() {
   return (
-    <main >
+    <main className="f">
       <TravelForm />
     </main>
   );
